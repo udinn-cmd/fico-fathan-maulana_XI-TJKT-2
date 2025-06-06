@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "tailwindcss": "^3.4.13"
+    "tailwindcss": "^3.4.17"
   },
   "name": "porto2",
   "version": "1.0.0",
@@ -102,5 +102,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udinn-cmd/fico-fathan-maulana_XI-TJKT-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/udinn-cmd/fico-fathan-maulana_XI-TJKT-2/issues"
+  },
+  "homepage": "https://github.com/udinn-cmd/fico-fathan-maulana_XI-TJKT-2#readme",
   "description": ""
 }
